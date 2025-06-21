@@ -1,11 +1,6 @@
 How to Login EarthLink Mail on Any Device?
 ============================================
 
-
-
-
-
-
 EarthLink Mail is an email service provided by EarthLink, a prominent internet service provider in the United States. For those who have subscribed to EarthLink's internet or email services, EarthLink Mail provides a webmail platform that allows users to send and receive emails, manage contacts, and organize their messages efficiently.
 
 EarthLink offers both a webmail interface and email clients that can be configured on desktop and mobile devices, giving users flexibility in how they access their accounts.
